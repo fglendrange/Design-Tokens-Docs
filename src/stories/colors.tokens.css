@@ -1,0 +1,14 @@
+:root {
+    /**
+    * @tokens Colors
+    * @presenter Color
+    */
+    --color-button-primary: #1ea7fd;
+    --color-button-primary-hover: #1b7ec2;
+    --color-button-primary-active: #116699;
+    --color-button-primary-disabled: #a0dfff;
+    --color-button-secondary: #e9ecef;
+    --color-button-secondary-hover: #e2e6ea;
+    --color-button-secondary-active: #d4d8db;
+    --color-button-secondary-disabled: #f1f3f5;
+}
